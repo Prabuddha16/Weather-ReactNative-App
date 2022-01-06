@@ -1,11 +1,4 @@
-# Sample Snack app
+#Weather App Using React
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+![Screenshot (224)](https://user-images.githubusercontent.com/63943167/148357840-60c29fb3-1f86-424a-a41a-ad239fcae329.png)
+![Screenshot (225)](https://user-images.githubusercontent.com/63943167/148357850-49069dfc-9dc2-4d22-8ac7-e3d425f9d26e.png)
