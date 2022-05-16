@@ -1,4 +1,4 @@
-# Weather App Using React
+# Weather App Using ReactNative
 
 Project Link : https://snack.expo.dev/@prabuddha6/weather-app
 
